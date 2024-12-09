@@ -1,0 +1,2 @@
+New-Item -Path "css/style.css" -ItemType "file"
+notepad css/style.css
