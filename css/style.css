@@ -1,0 +1,9 @@
+/* 主题变量 */
+:root {
+    --primary-color: #007AFF;
+    --text-color: #333333;
+    --border-radius: 12px;
+    --transition: all 0.3s ease;
+}
+
+/* ... 其他样式 ... */
